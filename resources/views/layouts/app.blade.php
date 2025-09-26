@@ -17,7 +17,6 @@
         @yield('style')
     </head>
     <body class="body">
-        @include('layouts.navigation')
         <!-- Page Content -->
         <main>
             @yield('main')
